@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Intro
 
-I created this project following a tutorial -- Used to track Crypto Prices with the ability to add some more
+I created this project to track Crypto Prices with the ability to add some more
 Used CoinGecko API to fetch the data for the coins/prices/percents
 
 ### Main Screen
